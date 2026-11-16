@@ -1,4 +1,4 @@
-# https://prometheus.digitalwitch.online -> prometheus (protected by NGINX basic auth, Secret "basic-auth")
+# https://prometheus.pod5ecomm.store -> prometheus (protected by NGINX basic auth, Secret "basic-auth")
 #
 # F5 NGINX mergeable Ingresses:
 #   master = host + TLS certificate (issuer letsencrypt-prod-mergeable)
