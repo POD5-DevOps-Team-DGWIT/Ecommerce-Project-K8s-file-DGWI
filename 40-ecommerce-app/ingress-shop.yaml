@@ -19,10 +19,10 @@ spec:
   ingressClassName: nginx
   tls:
     - hosts:
-        - shop.digitalwitch.online
+        - shop.pod5ecomm.store
       secretName: shop-tls
   rules:
-    - host: shop.digitalwitch.online
+    - host: shop.pod5ecomm.store
       http:
         paths:
           - path: /
