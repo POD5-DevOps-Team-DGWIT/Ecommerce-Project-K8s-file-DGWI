@@ -12,7 +12,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/digitalwitchdemo/k8s-file.git
+    repoURL: https://github.com/POD5-DevOps-Team-DGWIT/Ecommerce-Project-K8s-file-DGWI.git
     targetRevision: main
     path: 20-logging
   destination:
