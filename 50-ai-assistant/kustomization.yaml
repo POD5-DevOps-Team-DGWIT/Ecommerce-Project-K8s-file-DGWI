@@ -30,4 +30,4 @@ images:
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/chatbot
     newTag: "17"
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/mcp
-    newTag: "10"
+    newTag: "latest"
