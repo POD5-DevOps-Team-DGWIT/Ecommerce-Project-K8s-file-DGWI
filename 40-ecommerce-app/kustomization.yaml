@@ -59,7 +59,7 @@ images:
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/fraud-detection
     newTag: "latest"
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/frontend
-    newTag: "latest"
+    newTag: "28"
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/frontend-proxy
     newTag: "latest"
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/image-provider
