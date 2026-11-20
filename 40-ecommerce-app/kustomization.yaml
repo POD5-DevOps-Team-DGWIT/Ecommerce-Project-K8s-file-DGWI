@@ -55,7 +55,7 @@ images:
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/email
     newTag: "latest"
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/flagd-ui
-    newTag: "latest"
+    newTag: "31"
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/fraud-detection
     newTag: "latest"
   - name: 916657620282.dkr.ecr.eu-west-2.amazonaws.com/ecomerce/frontend
